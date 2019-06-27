@@ -8,6 +8,7 @@ My Jupiter notebook can be found [here](https://github.com/hanhuyen3710/Spring-B
 
 Milestone report is [here](https://docs.google.com/document/d/1zGlBkhTMD86euCpwgBKb3aah32Pejs84zJjc_cUccKs/edit?usp=sharing).
 
-Still need to work on the slide-deck and final report.
+Slide deck is [here](https://spark.adobe.com/video/hHRvWPWfgSYhs).
 
+Final report is [here](https://docs.google.com/document/d/e/2PACX-1vRfjXbHnyWHb0N5vH2G1HVqc3BPix8N9NJsIAKszDqtL7FbTBWdIqsGOOduQfSVE2eBNfz9Sn6E2alv/pub).
 
